@@ -11,3 +11,7 @@ Assignment solutions for Microprocessors Lab (MASM programming) - Semester V
 9) Floating point operations
 10) Display a string
 11) Display system date and time
+12) 8 bit airthmetic Operation Using 8051
+13) Cube of a Number using 8051
+14) BCD to ASCII Conversion using 8051
+
